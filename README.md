@@ -1,5 +1,5 @@
 # MS-rewards-script
-微软积分脚本
+Microsoft rewards script
 ## 运行环境：
   篡改猴 (Tampermonkey)
 
