@@ -184,19 +184,6 @@ function setDic(query) {
         // return;
     })
 
-    // 监听键盘按键事件
-    document.addEventListener('keydown', function (event) {
-        if (event.ctrlKey && event.altKey && event.key === 'l') {
-            if (confirm("Whether you want to stop automatic search? ")) {
-                console.log("[info] stop");
-                // hnum = 0;
-                localStorage.setItem('snum', 0);;
-            } else {
-                console.log("[info] continue :) ");
-            }
-        }
-    });
-
 
 
 
