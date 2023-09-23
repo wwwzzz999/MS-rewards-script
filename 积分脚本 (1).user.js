@@ -10,6 +10,7 @@
 // @match        https://cn.bing.com/*
 // @match        https://www4.bing.com/*
 // @match        https://www.microsoft.com/*
+// @connect      tenapi.cn
 // @icon         https:www.google.com/s2/favicons?sz=64&domain=bing.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        GM_setValue
